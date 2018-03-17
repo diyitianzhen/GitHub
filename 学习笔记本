@@ -1,0 +1,17 @@
+对于GitHub的入门是在慕课网上跟随讲师happypeter的课程进行学习的
+课程链接：（版本控制入门 – 搬进 Github）https://www.imooc.com/learn/390
+Git————傻子
+  名称起源:我是个自负的混蛋,所有我的项目都以我自己的名字命名，先有Linux,现在是Git————Git和Linux之父，Linus
+  Or Git(global全局——information信息——tracker控制器)的缩写
+Git————版本控制工具
+  体现互联网开源文化
+GitHub————全球最大的社交编程及代码托管网站
+commit————v.保存版本,
+          n.版本
+New repository————创建新的仓库
+description————描述；说明（optional————可选择的，随意的）
+Commit directly to the master branch————直接提交给主分支
+commits进入了项目历史的页面,可以看到每个commit所包含的信息
+每个commit中最核心的内容是谁（who）在什么时间（when）改了哪些内容（what）,及为什么要进行修改（why）——查看版本留言
+版本号（commit id),每个commit都有一个commit id,是一个 40 位 16 进制数,可以用来定位每个版本
+每个commit中不仅包含了当前的commit id,同时还包含了前一个commit的commit id.即父版本parent的commit id,由当前版本指向前一个版本,形成改版历史线
